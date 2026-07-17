@@ -63755,7 +63755,7 @@ s=r.a
 q=Math.abs(s)
 p=r.b
 o=Math.abs(p)
-if(Math.min(q,o)<Math.max(q,o)*0.466)n=q>=o?new A.k(J.d5(s),0):new A.k(0,J.d5(p))
+if(Math.min(q,o)<Math.max(q,o)*0.364)n=q>=o?new A.k(J.d5(s),0):new A.k(0,J.d5(p))
 else n=null
 if(n!=null){m=new A.k(-n.a,-n.b)
 j.w=m}else m=new A.k(-s,-p)}else{m=j.w
